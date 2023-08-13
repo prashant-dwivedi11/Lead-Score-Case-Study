@@ -15,7 +15,7 @@ Steps Followed
 - Exploratory data analysis - this include Univariate analysis and bivariate analysis.
 - Data Preperation - Creating dummy variables
 - Splitting the data in Test and Train.
-- Feature Scalaing using MinMaxScalar
+- Feature Scalaing using MinMaxScalar - As no outliers has been found in the numerical columns
 - Feature Selection using RFE
 - Model Building
 - Confusion Matrix
